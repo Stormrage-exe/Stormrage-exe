@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
-- 📁 I’m currently working on [an pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/WorldOfPetcraft) <img src="https://wizard-arena.ucoz.net/images/4.gif"/>
+- 📁 I’m currently working on [a pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/WorldOfPetcraft) <img src="https://wizard-arena.ucoz.net/images/4.gif"/>
 
 - 🖥️ I’m currently learning **JavaScript.** <img src="https://wizard-arena.ucoz.net/images/113.gif"/>
 
