@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **front-end development.**
 
-- 🔍 All of my projects are available at [https://github.com/Stormrage-exe](https://github.com/Stormrage-exe)
+- 🔍 All of my projects are available at [https://github.com/Stormrage-exe?tab=repositories](https://github.com/Stormrage-exe?tab=repositories)
 
 - 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/)
 
