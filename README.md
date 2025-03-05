@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Solo</h1>
+<h1 align="center">Hi , I'm Solo</h1>
 <h3 align="center">A passionate front-end developer from Romania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
-- 🔭 I’m currently working on [an pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/HunterPetsSite)
+- 📁 I’m currently working on [an pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/HunterPetsSite)
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🖥️ I’m currently learning **JavaScript.**
 
 - 🤝 I’m looking for help with **front-end development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stormrage-exe](https://github.com/Stormrage-exe)
+- 🔍 All of my projects are available at [https://github.com/Stormrage-exe](https://github.com/Stormrage-exe)
 
 - 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/)
 
@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormrage-exe&show_icons=true&locale=en&layout=compact" alt="stormrage-exe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormrage-exe&" alt="stormrage-exe" /></p>
+
