@@ -1,19 +1,17 @@
-<h1 align="center">Hi , I'm Solo</h1>
+<h1 align="center">Hi , I'm Solo <img src="https://wizard-arena.ucoz.net/images/103.gif"/></h1>
 <h3 align="center">A passionate front-end developer from Romania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
-- 📁 I’m currently working on [an pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/HunterPetsSite)
+- 📁 I’m currently working on [an pet encyclopedia for WoW hunters.](https://github.com/Stormrage-exe/HunterPetsSite) <img src="https://wizard-arena.ucoz.net/images/4.gif"/>
 
-- 🖥️ I’m currently learning **JavaScript.**
+- 🖥️ I’m currently learning **JavaScript.** <img src="https://wizard-arena.ucoz.net/images/113.gif"/>
 
-- 🤝 I’m looking for help with **front-end development.**
+- 🔍 All of my projects are available at [https://github.com/Stormrage-exe?tab=repositories](https://github.com/Stormrage-exe?tab=repositories) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
 
-- 🔍 All of my projects are available at [https://github.com/Stormrage-exe?tab=repositories](https://github.com/Stormrage-exe?tab=repositories)
+- 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/) <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
 
-- 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/)
-
-- 📫 How to reach me **biasolo0611@gmail.com**
+- 📫 How to reach me **biasolo0611@gmail.com** <img src="https://wizard-arena.ucoz.net/images/101.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
