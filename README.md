@@ -11,7 +11,6 @@
 
 - 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/) <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
 
-- 📫 How to reach me **biasolo0611@gmail.com** <img src="https://wizard-arena.ucoz.net/images/101.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
