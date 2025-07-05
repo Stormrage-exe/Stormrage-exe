@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Solo <img src="https://wizard-arena.ucoz.net/images/103.gif"/></h1>
-<h3 align="center">A passionate front-end developer from Romania.</h3>
+<h3 align="center">A (tired) passionate front-end developer from Romania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔍 All of my projects are available at [https://github.com/Stormrage-exe?tab=repositories](https://github.com/Stormrage-exe?tab=repositories) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
 
-- 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/) <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
+- 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/) (i'm lying) <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
 
 
 
