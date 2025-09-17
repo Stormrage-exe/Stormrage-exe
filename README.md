@@ -9,7 +9,7 @@
 
 - 🔍 All of my projects are available at [https://github.com/Stormrage-exe?tab=repositories](https://github.com/Stormrage-exe?tab=repositories) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
 
-- 📝 I regularly write articles on [https://stormrageexe.blogspot.com/](https://stormrageexe.blogspot.com/) (i'm lying) <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
+- 📝 I sometimes write blogs on  [my site](https://stormrage-exe.github.io/Stormrage/)! <img src="https://wizard-arena.ucoz.net/images/111.gif"/>
 
 
 
