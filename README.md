@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Niku <img src="https://wizard-arena.ucoz.net/images/103.gif"/></h1>
 <h3 align="center">A (tired) passionate front-end developer from Romania.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
 <p align="center">- 📁 I’m currently working on a site with guides for Umamusume players: https://stormrage-exe.github.io/Umamusume-Guides <img src="https://wizard-arena.ucoz.net/images/4.gif"/></p>
 
