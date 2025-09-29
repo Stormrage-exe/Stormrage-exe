@@ -7,7 +7,7 @@
 
 - 🖥️ I’m currently learning **JavaScript.** <img src="https://wizard-arena.ucoz.net/images/113.gif"/>
 
-- 🔍 All of my projects are available [right here.](https://github.com/Stormrage-exe?tab=repositories) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
+- 🔍 All of my important projects are available [right here.](https://stormrage-exe.github.io/Portofolio/projects.html) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
 
 
 
