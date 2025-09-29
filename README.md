@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormrage-exe&label=Profile%20views&color=0e75b6&style=flat" alt="stormrage-exe" /> </p>
 
-<p align="center">- 📁 I’m currently working on a site with guides for Umamusume players: https://stormrage-exe.github.io/Umamusume-Guides/ <img src="https://wizard-arena.ucoz.net/images/4.gif"/></p>
+<p align="center">- 📁 I’m currently working on a site with guides for Umamusume players: https://stormrage-exe.github.io/Umamusume-Guides <img src="https://wizard-arena.ucoz.net/images/4.gif"/></p>
 
 <p align="center">- 🖥️ I’m currently learning JavaScript. <img src="https://wizard-arena.ucoz.net/images/113.gif"/> </p> 
 
